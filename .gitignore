@@ -35,4 +35,22 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+train/
+val/
+test/
+train.txt
+val.txt
+*.h5
+*.pkl
+*.npy
+*.npz
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico 
